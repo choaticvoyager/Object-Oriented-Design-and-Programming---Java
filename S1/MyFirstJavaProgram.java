@@ -1,5 +1,4 @@
 //this is a comment
-//trhis is our first java program
 
 import java.io.*; //this is how we import packages
 
