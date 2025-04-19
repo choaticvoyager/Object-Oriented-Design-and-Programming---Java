@@ -4,9 +4,11 @@ Welcome to my practical records repository for the course **Object-Oriented Desi
 
 - 🎓 **Subject**: Object-Oriented Design & Programming - Java  
 - 👨‍🏫 **Lecture-in-Charge**: Dr. S. Kirushanth  
-- 🗓️ **Period**: 14th March, 2025 – Present  
-- 🏛️ **University**: University of Vavuniya  
+- 🗓️ **Period**: 14th March, 2025 – Present
 - 📚 **Semester**: 02  
+- 📏 **Level**: 01  
+- 📅 **Academic Year**: 2022/23  
+- 🏛️ **University**: University of Vavuniya  
 
 ---
 
