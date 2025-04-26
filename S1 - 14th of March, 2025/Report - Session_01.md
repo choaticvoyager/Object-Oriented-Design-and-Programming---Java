@@ -121,7 +121,7 @@ From class Two c = 30
 ## 6. Observations
 
 ### MyFirstJavaProgram
-- **Error**: `package system does not exist` in `System.out.print("Hi");`
+- **Error**: `package system does not exist` in `system.out.print("Hi");`
   - **Solution**: Changed the word 'system' to 'System'.
 
 - **Error**: `';' expected` in `System.out.print("This is in a new line")`
@@ -134,7 +134,7 @@ From class Two c = 30
 - Array indexing matters, as the output will be displayed in the specified order.
 
 ### Program_3
-- The output shows the values of the instance variables before and after initialization.
+- The output shows the values of the instance variables before and after its initialization.
 
 ## 7. Conclusion
 
