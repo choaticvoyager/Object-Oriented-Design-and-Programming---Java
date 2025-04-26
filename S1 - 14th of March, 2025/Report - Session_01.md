@@ -98,7 +98,6 @@ java MySecondClass Argument1 Argument2 How are you
 The first argument is Argument1
 The second argument is Argument2
 How you are
-This is in a new line
 ```
 
 ### Program_3
