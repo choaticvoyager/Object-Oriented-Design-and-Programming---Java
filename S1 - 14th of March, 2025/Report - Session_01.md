@@ -33,7 +33,7 @@ To understand the basic syntax and structure of a Java program.
 1. **Start**: Begin the program.
 2. **Define Class**: Create a class named `MySecondClass`.
 3. **Define Main Method**: Inside the class, define the main method which serves as the entry point of the program.
-   - **Input**: Accepts an array of strings as arguments (`String[] arr`).
+   - **Input**: Accepts an array of strings as arguments (`String[] arr`), which the user provides.
 4. **Print First Argument**:
    - Use `System.out.println` to display the message "The first argument is " followed by the first element of the array, `arr[0]`.
 5. **Print Second Argument**:
