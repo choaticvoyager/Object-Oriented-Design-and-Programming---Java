@@ -3,7 +3,7 @@ import IT.Hons.*;
 import AMC.*;
 
 class App{
-	public static void main(String[] args){
+	public static void main(String[] args){ //Main method
 		IT.FirstYear it1=new IT.FirstYear();//Create an instance of class FirstYear in package IT. 
 		FourthYear it4=new FourthYear();
 		AMC.FirstYear amc1=new AMC.FirstYear();//By prefixing the package name, prevent naming conflicts. 
