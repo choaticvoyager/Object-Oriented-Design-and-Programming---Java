@@ -1,4 +1,4 @@
-package IT; //Specify the package name to which the file belongs.
+package IT; //Specify the package name IT to which the class belongs.
 
 public class FirstYear{ 
 	public void display(){ //Method
