@@ -59,7 +59,7 @@ To understand the concept of inheritance using packages.
 ### Person (Package Human)
 1. **Start:** Begin the program.
 2. **Define the package:** Specify the package name for the class `Person` as `human`.
-3. **Define Class:** Create a public class named `Person`.
+3. **Define Class:** Create a public class named `Person` that inherits from the `Human` class using the `extends` keyword.	
 4. **Declare a String variable:** Declare a `String` variable `name` and initialize it to "Alijendro".
 5. **End:** The program execution completes.
 
