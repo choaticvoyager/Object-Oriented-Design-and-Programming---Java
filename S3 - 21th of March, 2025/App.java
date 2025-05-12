@@ -1,5 +1,5 @@
 import a.*; //Allow access to all the files under the package a.
-import b.*; ////Allow access to all the files under the package b.
+import b.*; //Allow access to all the files under the package b.
 
 class App{
 	public static void main(String[] args){ //Main method
