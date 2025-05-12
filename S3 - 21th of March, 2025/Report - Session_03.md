@@ -121,13 +121,13 @@ Name: Alijendro
   **Solution:** Inserted ';' at the end of the line.
 
 - **Error:** name is not public in Person; cannot be accessed from outside package in `System.out.println("Name: "+p1.name)`  
-  **Solution:** Added the public access modifier to the name variable to make it accessible outside the class.
+  **Solution:** Added the public access modifier to the name variable to make it accessible outside the package.
 
 ## 7. Conclusion
 
 ### App.java (Packages a&b)
-- Adding package names with the class name prevents conflicts when instantiating similar classes from different packages.  
-- Import statements allow access to classes from other packages.
+- Adding package name with the class name prevents conflicts when instantiating similar classes from different packages.  
+- Import statements allow access to classes from different packages.
 
 ### App.java (Invoice App)
 - Access modifiers control visibility of classes and their members across packages.  
