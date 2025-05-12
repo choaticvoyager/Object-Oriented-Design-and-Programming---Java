@@ -1,4 +1,4 @@
-package AMC;//Specify the package name to which the file belongs.
+package AMC;//Specify the package name AMC to which the file belongs.
 
 public class FirstYear{
 	public void display(){ //Method
