@@ -125,11 +125,8 @@ Name: Alijendro
 
 ## 7. Conclusion
 
-### App.java (Packages a&b)
 - Adding package name with the class name prevents conflicts when instantiating similar classes from different packages.  
 - Import statements allow access to classes from different packages.
-
-### App.java (Invoice App)
 - Access modifiers control visibility of classes and their members across packages.  
 - Inheritance allows a subclass to acquire non-private properties and behaviors from its superclass.  
 - Using the keyword `extends`, a subclass is created.  
