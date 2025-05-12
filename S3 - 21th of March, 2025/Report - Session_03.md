@@ -75,8 +75,8 @@ To understand the concept of inheritance using packages.
 9. **End:** The program execution completes.
 
 ## 4. Source Code
-- [Test.java (Package a)](https://github.com/choaticvoyager/Object-Oriented-Design-and-Programming---Java/tree/main/S3%20-%2021th%20of%20March%2C%202025/a/Test.java)
-- [Test.java (Package b)](https://github.com/choaticvoyager/Object-Oriented-Design-and-Programming---Java/tree/main/S3%20-%2021th%20of%20March%2C%202025/blTest.java)
+- [Test.java (Package a)](https://github.com/choaticvoyager/Object-Oriented-Design-and-Programming---Java/blob/main/S3%20-%2021th%20of%20March%2C%202025/a/Test.java)
+- [Test.java (Package b)](https://github.com/choaticvoyager/Object-Oriented-Design-and-Programming---Java/tree/main/S3%20-%2021th%20of%20March%2C%202025/b/Test.java)
 - [App.java (Packages a&b)](https://github.com/choaticvoyager/Object-Oriented-Design-and-Programming---Java/blob/main/S3%20-%2021th%20of%20March%2C%202025/App.java)
 - [Human.java (Package Human)](https://github.com/choaticvoyager/Object-Oriented-Design-and-Programming---Java/blob/main/S3%20-%2021th%20of%20March%2C%202025/Invoice%20App/human/Human.java)  
 - [Person.java (Package Human)](https://github.com/choaticvoyager/Object-Oriented-Design-and-Programming---Java/blob/main/S3%20-%2021th%20of%20March%2C%202025/Invoice%20App/human/Person.java) 
