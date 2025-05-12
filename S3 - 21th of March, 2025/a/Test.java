@@ -1,7 +1,7 @@
-package a;
+package a; //Specify the package name a with its path to which the file belongs.
 
 public class Test{
-	public void print(){
+	public void print(){ //Method
 		System.out.println("Hi from class Test in package a");
 	}
 	
